@@ -23,7 +23,7 @@ Style/Documentation:
   Enabled: false
 
 Metrics/BlockLength:
-  Enabled: false
+  Enabled: true
 
 Rails/FilePath:
   EnforcedStyle: arguments
